@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopFacebook.Logic", "DesktopFacebook.Logic\DesktopFacebook.Logic.csproj", "{F746D8A1-86F2-42C3-BA35-CA50C699DD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopFacebook.UI", "DesktopFacebook.UI\DesktopFacebook.UI.csproj", "{48FE36CA-FA93-4A39-BD86-B72AF2525CC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E806F9A-1B84-470D-9809-9CABA848A381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F746D8A1-86F2-42C3-BA35-CA50C699DD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F746D8A1-86F2-42C3-BA35-CA50C699DD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F746D8A1-86F2-42C3-BA35-CA50C699DD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F746D8A1-86F2-42C3-BA35-CA50C699DD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FE36CA-FA93-4A39-BD86-B72AF2525CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FE36CA-FA93-4A39-BD86-B72AF2525CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FE36CA-FA93-4A39-BD86-B72AF2525CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FE36CA-FA93-4A39-BD86-B72AF2525CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
